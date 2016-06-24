@@ -8,7 +8,7 @@ matriz **matriz2;
 void main(int argc, char *argv[]) {
 	printf("*********** Bem Vindo a Calculadora de Matrizes ***********\n");
 	printf("\n");
-	printf("Desenvolvido por: Andre Fernando de Lima\n\n");
+	printf("Desenvolvido por: Anderson Schott\n\n");
 	printf("ATENCAO: Este programa suporta realizar operacoes com matrizes de tamanho maximo 10x10 \n");
 	
 	menu();
@@ -158,7 +158,7 @@ void menu(){
         case 0: //Sair
         	system("cls");
         	printf("OBRIGADO por utilizar o sistema!:\n\n");
-        	printf("Desenvolvido por: Andre Fernando de Lima\n\n");
+        	printf("Desenvolvido por: Anderson Schott\n\n");
         	system("exit");
         	break;
         default:
